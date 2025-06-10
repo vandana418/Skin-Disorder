@@ -22,8 +22,6 @@ To classify and predict skin disorders using machine learning algorithms and a l
 - Family History  
 - Target: Skin Disorder Type (e.g., Psoriasis, Eczema, Dermatitis)
 
-> Note: Actual features depend on the dataset used.
-
 ---
 
 ## 🔍 Workflow
